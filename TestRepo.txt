@@ -1,5 +1,13 @@
 Update with Tortoise…
 
+..............................................................................
+
+Use string concatenation to print text with numbers
+Or the {0} placeholders
+Or the ${variable} syntax
+
+------------------------------------------------------------------------------
+
 static void Main()
 {
   Console.Write("What's your name? ");
@@ -13,3 +21,8 @@ static void Main()
   var name = Console.ReadLine();
   Console.WriteLine($"Hello, {name}!");
 }
+
+------------------------------------------------------------------------------
+
+D – format number to certain digits with leading zeros
+F – format floating point number with certain digits after the decimal point
