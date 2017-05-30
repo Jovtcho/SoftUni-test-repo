@@ -10,5 +10,6 @@ This will make a conflict.
 
 The conflict is resolved. 
 
-
+Hello!
+Some changes are made in main branch.
 
