@@ -13,3 +13,6 @@ The conflict is resolved.
 Hello!
 Some changes are made in main branch.
 
+Hello again!
+Develop branch is made locally.
+
