@@ -10,5 +10,8 @@ This will make a conflict.
 
 The conflict is resolved. 
 
+Hello again!
+Develop branch is made locally.
+
 
 
