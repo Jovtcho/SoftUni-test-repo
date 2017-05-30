@@ -10,4 +10,9 @@ Jo
 
 1. Changes made with BASH.
 
-2. These changes make conflict.
+
+2. These changes make conflict (locally).
+
+
+3. These changes make conflict (WEB).
+
